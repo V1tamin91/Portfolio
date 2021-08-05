@@ -1,0 +1,40 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #F3F2F0;
+}
+
+.white {
+    background-color: #F3F2F0;
+    color: #010101;
+}
+.wrapper{
+    max-width: 1140 px;
+    margin: 0px auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.name {
+    font-size: 28px;
+    color: #010101;
+}
+
+.title-h1 {
+    font-size: 74px;
+    text-transform: uppercase;
+    color: #010101;
+}
+
+.photo {
+    margin-bottom: 120px;
+    width: 100%;
+}
+
+.nav-link {
+    text-decoration: none;
+color: #010101;
+font-size: 14px;
+}
+
+.nav-link:hover {
+    color: #D40000;
+}
